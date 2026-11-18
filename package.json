@@ -1,0 +1,17 @@
+{
+  "name": "zen-workbench",
+  "productName": "Zen Workbench",
+  "version": "1.2.3",
+  "description": "Modern Cronus Zen workspace with GPC compilation, device monitoring and computer vision",
+  "main": "main.cjs",
+  "private": true,
+  "scripts": {
+    "start": "electron .",
+    "test": "node --test tests/*.test.cjs",
+    "package": "node build.mjs"
+  },
+  "devDependencies": {
+    "@electron/packager": "20.3.0",
+    "electron": "45.3.3"
+  }
+}

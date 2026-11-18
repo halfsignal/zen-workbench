@@ -1,0 +1,8 @@
+{
+  "compiler/compiler.wasm": "8a485c11a34cdb2a30284ee3ef3608c9bcbeaf7179cbc2fe5a3253d6f1618e48",
+  "compiler/bindings.mjs": "469a501b712a0d5f2cf1ae44387ece327b39084887a56531112fa9bf5e5b90a7",
+  "legacy/device.wasm": "86110ebfb7651166e49791de7cf881ec10bb139691edd44ba102347c3b5b61a8",
+  "legacy/factory.js.txt": "75c068a586a0b5e97921177c4e64f0f26a6df6f1c7c734adc08d39deed68c65d",
+  "compatible-240/device.wasm": "873a51aec90ee6375d9a46403df9dd9abddd1403d156af2be002c188b18fa3bf",
+  "compatible-240/factory.js.txt": "76f5c43b52a882f4ba0e80e09c31e1af3e86ef47ae6faedcc12f8972a53978a6"
+}
