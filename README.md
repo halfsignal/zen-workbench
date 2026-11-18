@@ -14,7 +14,7 @@ Device output starts disabled. The editor supports temporary execution in RAM. F
 
 Install Python 3.11 and run `python -m pip install -r requirements-vision.txt` from this repository. For NVIDIA acceleration, install a CUDA-enabled build of PyTorch for that interpreter using the [PyTorch installer guide](https://pytorch.org/get-started/locally/). CPU mode is also available. In **Preferences**, select the Python interpreter. In **Computer Vision**, select a YOLOv8 `.pt` checkpoint and an image, video or a restored window, then select **Start vision**. The optional model download includes ONNX for external inference. Workbench itself takes the `.pt` file.
 
-Window capture uses Windows Graphics Capture with a GDI fallback. Use an exact window title and keep the window restored. The 8 FPS preview is independent of model throughput. Live detection speed depends on source and GPU load. Controller correction requires explicitly enabling L2 output and holding physical L2. Use controller automation only in environments that permit it.
+Window capture uses Windows Graphics Capture with a GDI fallback. Use an exact window title and keep the window restored. The 8 FPS preview is independent of model throughput. Live detection speed depends on source and GPU load. Controller correction requires explicitly enabling L2 output and holding physical L2.
 
 ## Develop and build
 
