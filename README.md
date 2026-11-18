@@ -4,7 +4,7 @@ Zen Workbench is a Windows desktop app for Cronus Zen. It includes a device moni
 
 ## Download and run
 
-1. Download `Zen-Workbench-Windows-x64.zip` from [Releases](https://github.com/hhhhhhhhhvvccfzrehdrtfy/zen-workbench/releases).
+1. Download `Zen-Workbench-Windows-x64.zip` from [Releases](https://github.com/halfsignal/zen-workbench/releases).
 2. Extract the entire ZIP and open `Zen Workbench.exe` inside it. Keep its DLLs and `resources` folder beside the executable.
 3. Connect the Zen's **PROG** port to your PC in normal mode. Close other Zen software and choose **Connect Zen**. The bundled device libraries cover firmware 2.3.2 and 2.4.0.
 
