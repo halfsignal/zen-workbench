@@ -33,4 +33,6 @@ Packaging produces a Windows x64 folder under the sibling `zen-workbench-build-v
 
 This is an independent project. Cronus Zen and Zen Studio are Collective Minds products. The Zen32 compiler (1.2.4) and device SDK components (1.3.3 and 1.4.1) originate from [Zen Studio Live](https://zenstudio.collectivemindsstore.com/). The device bindings were adapted to load the matching WebAssembly in Workbench's local transport. `vendor-asset-sha256.json` identifies the bundled versions. The components retain their respective ownership and terms.
 
+discord is vacant1746
+
 Vision uses [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics). The optional model was fine-tuned on the Roboflow export [Fortnite v2, SecondVersionAllClassCharacter](https://universe.roboflow.com/himrohblo/fortnite-gegjm), credited to the project's uploader and labeled [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) in the export. Fortnite belongs to Epic Games. Refer to the relevant upstream terms for reuse. The training image archive is available from its upstream project.
